@@ -90,7 +90,7 @@ O índice do slide atual é armazenado no `localStorage`, permitindo recuperar a
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/giosantos99/SlideStories.git
+git clone https://github.com/giosantos99/slide-stories.git
 ```
 
 ### 2. Acesse a pasta
